@@ -3,7 +3,7 @@ Enhancements ands Bug fixes for Shining Soul 2 on Gameboy Advance
 
 Many of these patches are simple Hex value changes for the USA version of the game.
 
-The Archer Summon Persist - Summons will persist instead of despawning after performing certain amount of hits. They will still despawn when they take enough damage, your character dies, or you go into town
+The Archer Summon Persist - Summons will persist instead of despawning after performing certain amount of attacks. They will still despawn when they take enough damage, your character dies, or you go into town
 
 Forest Force - The damage of the summons have been buffed from 16 to 36 in the damage formula.
 
