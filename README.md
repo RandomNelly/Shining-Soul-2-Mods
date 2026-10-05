@@ -13,7 +13,7 @@ Counter Bonus 20-50 - The original "Counter" skill adds % damage to your attack 
 
 Respec - This makes it so that you can add or subtract skill points anytime you want.
 
-Resistance Fix - There was a bug in the game where if you had over a certain percentage it would malfunction.
+Resistance Fix - There was a bug in the game where if you had over a certain percentage it would malfunction. This is untested.
 
 Apply these patches with Lunar IPS on the USA version of the ROM
 
