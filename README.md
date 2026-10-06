@@ -24,7 +24,7 @@ Apply these patches with Lunar IPS on the USA version of the ROM
 
 ============ 32MB Edition ============
 
-The mods below, unless stated, originated from some talented modders over in China so credit to them, I have simply ported them to the USA rom using AI.
+The mods below, unless stated otherwise, originated from some talented modders over in China so credit to them, I have simply ported them to the USA rom using AI.
 
 Expansion  - Expands the game to 32MB from the original 16MB to fit more substantial mods
 
