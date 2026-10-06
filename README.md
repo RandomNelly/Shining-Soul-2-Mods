@@ -26,7 +26,7 @@ Apply these patches with Lunar IPS on the USA version of the ROM
 
 The mods below, unless stated, originated from some talented modders over in China so credit to them, I have simply ported them to the USA rom using AI.
 
-Expansion  - Expands the game to 32MB to fit major mods
+Expansion  - Expands the game to 32MB from the original 16MB to fit more substantial mods
 
 Display Enemy HP - Enemies will now display a HP bar above their head. Has not been heavily tested.
 
