@@ -17,9 +17,14 @@ Resistance Fix - There was a bug in the game where if you had over a certain per
 
 Apply these patches with Lunar IPS on the USA version of the ROM
 
+
+
+
+
+
 ============ 32MB Edition ============
 
-These mods originated from some talented modders over in China so credit to them, I have simply ported them to the USA rom using AI.
+The mods below, unless stated, originated from some talented modders over in China so credit to them, I have simply ported them to the USA rom using AI.
 
 Expansion  - Expands the game to 32MB to fit major mods
 
