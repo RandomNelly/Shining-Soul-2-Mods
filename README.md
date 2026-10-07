@@ -11,6 +11,8 @@ Counter - Fixes the the "Counter" skill on the Warrior. The skill activate when 
 
 Counter Bonus 20-50 - The original "Counter" skill adds % damage to your attack when it triggers and  scales from +12% at lvl 1 to +26% at lvl 7. This changes it to scale from +20% at lvl 1 to +50% at lvl 7. This patch only works with the "Counter" fix patch.
 
+Attribute Respec - Refund STR, DEX, INT, VIT points anytime you want.
+
 Respec - This makes it so that you can add or subtract skill points anytime you want.
 
 Resistance Fix - There was a bug in the game where if you had over a certain percentage it would malfunction. This is untested.
